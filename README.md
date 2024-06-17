@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">Sou o Prof. S@uer<br><br>- 🔭 Professor<br>- 📚 Analista de Sistemas<br>- ⚡ Entusiasta em Tecnologias</p>
+<p align="left"> 🔭 Professor<br>- 📚 Analista de Sistemas<br>- ⚡ Entusiasta em Tecnologias</p>
 
 ###
 
