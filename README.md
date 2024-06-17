@@ -61,7 +61,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/alesauer/alesauer/output/snake.svg" alt="Snake animation" />
-
-###
