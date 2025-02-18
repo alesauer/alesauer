@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/9kmheb.jpg"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -51,7 +47,15 @@
 
 ###
 
-<p align="left">👯 Quer ter aula comigo?<br><br>Vou deixar o link para participar do melhor curso em programação Python. <br><br><br>Dê uma olhada <a href="https://simplificatreinamentos.com.br/python"> Aqui </a></p>
+<h3 align="left">🚀 Quer ter aula comigo?</h3>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/9kmheb.jpg"  />
+
+###
+
+<p align="left">🔗 Vou deixar o link para participar do melhor curso em programação Python. <br>Dê uma olhada: https://simplificatreinamentos.com.br/python</p>
 
 ###
 
